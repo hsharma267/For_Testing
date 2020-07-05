@@ -1,1 +1,1 @@
-Utility function for Version 2
+Utility function for Version 2 - good one
